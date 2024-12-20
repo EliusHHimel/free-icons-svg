@@ -28,5 +28,9 @@
     "@rollup/plugin-url": "^8.0.2",
     "rollup": "^4.28.1",
     "typescript": "^5.7.2"
-  }
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ]
 }
