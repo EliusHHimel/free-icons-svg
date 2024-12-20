@@ -10,7 +10,7 @@
   },
   "scripts": {
     "generate-exports": "node generate-icons.mjs",
-    "build": "pnpm run generate-exports && rollup -c",
+    "build": "npm run generate-exports && rollup -c",
     "test": "echo \"No tests defined\""
   },
   "keywords": [],
