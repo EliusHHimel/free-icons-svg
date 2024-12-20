@@ -1,0 +1,20 @@
+# Exclude scripts, TypeScript, and source files
+icons/
+scripts/
+*.ts
+*.mjs
+*.svg
+.github/
+
+# Exclude configuration files
+rollup.config.js
+tsconfig.json
+pnpm-lock.yaml
+
+# Exclude test files
+tests/
+*.test.js
+*.spec.js
+
+# Ignore generated files except the `dist` folder
+!.gitignore

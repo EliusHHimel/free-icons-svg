@@ -1,7 +1,2 @@
-import badge from "./icons/badge.svg";
-import alarm from "./icons/alarm-clock.svg";
-
-export default {
-  badge: badge,
-  alarm: alarm,
-};
+export { default as alarmClock } from './icons/alarmClock.svg';
+export { default as badge } from './icons/badge.svg';

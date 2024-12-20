@@ -5,7 +5,7 @@ import url from "@rollup/plugin-url";
 import typescript from "@rollup/plugin-typescript";
 
 export default {
-  input: "src/index.ts", // Your entry file
+  input: "index.ts", // Your entry file
   output: {
     file: "dist/index.js",
     format: "esm", // ES Module format
