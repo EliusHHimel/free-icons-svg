@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/EliusHHimel/free-icons-svg/compare/v1.2.0...v1.3.0) (2024-12-20)
+
+
+### Features
+
+* add multiple new SVG icons and TypeScript declaration file ([5c86249](https://github.com/EliusHHimel/free-icons-svg/commit/5c862490a856fe7c9ec4f39fe5de51c4d6b2a05f))
+* add new truck SVG icons for enhanced visual representation ([3c6c371](https://github.com/EliusHHimel/free-icons-svg/commit/3c6c3710396f24a3e3e1c03c4bec957c5b2416fa))
+
 # [1.2.0](https://github.com/EliusHHimel/free-icons-svg/compare/v1.1.0...v1.2.0) (2024-12-20)
 
 
