@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "module": "ESNext",
+    "target": "ESNext",
+    "strict": true
+  },
+  "include": ["*.ts"], // Specify your source directory
+  "exclude": [
+    "node_modules",
+    "dist",
+    "**/$Recycle.Bin",
+    "**/.*",
+    "**/*.tmp",
+    "**/*.log"
+  ]
+}
