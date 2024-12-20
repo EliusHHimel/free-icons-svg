@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/EliusHHimel/free-icons-svg/compare/v1.3.0...v1.3.1) (2024-12-20)
+
+
+### Bug Fixes
+
+* update package.json with a detailed description and enhance build script ([4688dbf](https://github.com/EliusHHimel/free-icons-svg/commit/4688dbf1f9b511d2aad9995bee63bb5b7e644caf))
+
 # [1.3.0](https://github.com/EliusHHimel/free-icons-svg/compare/v1.2.0...v1.3.0) (2024-12-20)
 
 
